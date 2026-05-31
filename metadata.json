@@ -1,0 +1,6 @@
+{
+  "name": "PromptVault PH",
+  "description": "A premium subscription-based AI prompt library built for Filipino students, teachers, business owners, and freelancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
